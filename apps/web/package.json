@@ -13,6 +13,7 @@
     "@tailwindcss/postcss": "^4.1.6",
     "@turbo-with-tailwind-v4/design-system": "workspace:*",
     "@turbo-with-tailwind-v4/input": "workspace:*",
+    "@turbo-with-tailwind-v4/chip": "workspace:*",
     "@turbo-with-tailwind-v4/ui": "workspace:*",
     "next": "^15.3.2",
     "postcss": "^8.5.3",

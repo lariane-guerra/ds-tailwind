@@ -5,5 +5,6 @@ module.exports = {
     "@turbo-with-tailwind-v4/design-system",
     "@turbo-with-tailwind-v4/ui",
     "@turbo-with-tailwind-v4/input",
+    "@turbo-with-tailwind-v4/chip",
   ],
 }

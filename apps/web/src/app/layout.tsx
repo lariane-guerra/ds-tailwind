@@ -2,6 +2,7 @@ import "./globals.css"
 import "@turbo-with-tailwind-v4/design-system/styles.css"
 import "@turbo-with-tailwind-v4/ui/styles.css"
 import "@turbo-with-tailwind-v4/input/styles.css"
+import "@turbo-with-tailwind-v4/chip/styles.css"
 
 import type { Metadata } from "next"
 

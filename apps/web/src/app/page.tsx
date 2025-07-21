@@ -3,7 +3,7 @@ import { FaGithub, FaMedium } from "react-icons/fa"
 import { Button } from "@turbo-with-tailwind-v4/design-system/Button"
 import { Input } from "@turbo-with-tailwind-v4/input/Input"
 import { Teste } from "@turbo-with-tailwind-v4/design-system/Teste"
-
+import { Chip } from "@turbo-with-tailwind-v4/chip/Chip"
 
 
 export default function Page() {
@@ -41,7 +41,7 @@ export default function Page() {
       <div>
           <div className="max-w-md mx-auto my-6 space-y-4">
             <Input />
-           
+            <Chip />
           </div>
           <div className="flex flex-col gap-4 md:gap-0 md:flex-row justify-evenly mt-4">
       </div>

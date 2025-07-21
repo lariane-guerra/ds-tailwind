@@ -1,0 +1,8 @@
+
+
+> @turbo-with-tailwind-v4/chip@0.0.0 build /Users/lari/Documents/Malga/Testing/ds-tailwind/packages/chip
+> tailwindcss -i ./src/styles.css -o ./dist/styles.css
+
+[3m[1m[34m≈[39m[22m[23m tailwindcss [34mv4.1.6[39m
+
+Done in [32m29ms[39m
