@@ -73,7 +73,7 @@ interface ButtonProps extends VariantProps<typeof buttonStyles> {
 export function Button({ children, href, variant, color }: ButtonProps) {
   return (
     <a
-      className="bg-green-400"
+      className="bg-orange-400"
       href={href}
       rel="noopener noreferrer"
       target="_blank"

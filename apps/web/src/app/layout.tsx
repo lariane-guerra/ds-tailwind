@@ -1,6 +1,8 @@
 import "./globals.css"
 import "@turbo-with-tailwind-v4/design-system/styles.css"
 import "@turbo-with-tailwind-v4/ui/styles.css"
+import "@turbo-with-tailwind-v4/input/styles.css"
+
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
@@ -14,7 +16,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
+    <html lang="pt-BR">
       <body>{children}</body>
     </html>
   )

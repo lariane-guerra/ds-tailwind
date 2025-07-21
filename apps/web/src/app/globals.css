@@ -1,5 +1,8 @@
 @import "tailwindcss";
 
+@source "./**/*.{js,ts,jsx,tsx}";
+@source "../../../packages/**/*.{js,ts,jsx,tsx}";
+
 @layer components {
   .backgroundGradient {
     /* Gradient created with https://colorfinder.app/css-tools/gradient-creator */

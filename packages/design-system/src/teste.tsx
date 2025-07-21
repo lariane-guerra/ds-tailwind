@@ -1,3 +1,3 @@
 export function Teste() {
-  return <div className="bg-amber-400 text-orange-500">Teste</div>
+  return <div className="bg-blue-300 text-red-500">Teste</div>
 }

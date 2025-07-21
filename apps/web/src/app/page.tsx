@@ -1,7 +1,10 @@
-import { Button } from "@turbo-with-tailwind-v4/design-system/Button"
+
 import { FaGithub, FaMedium } from "react-icons/fa"
-import { Teste } from "@turbo-with-tailwind-v4/design-system/Teste"
+import { Button } from "@turbo-with-tailwind-v4/design-system/Button"
 import { Input } from "@turbo-with-tailwind-v4/input/Input"
+import { Teste } from "@turbo-with-tailwind-v4/design-system/Teste"
+
+
 
 export default function Page() {
   return (
@@ -38,8 +41,7 @@ export default function Page() {
       <div>
           <div className="max-w-md mx-auto my-6 space-y-4">
             <Input />
-            <Input/>
-            <Input/>
+           
           </div>
           <div className="flex flex-col gap-4 md:gap-0 md:flex-row justify-evenly mt-4">
       </div>

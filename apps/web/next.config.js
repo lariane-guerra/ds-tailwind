@@ -4,5 +4,6 @@ module.exports = {
   transpilePackages: [
     "@turbo-with-tailwind-v4/design-system",
     "@turbo-with-tailwind-v4/ui",
+    "@turbo-with-tailwind-v4/input",
   ],
 }
